@@ -1,0 +1,57 @@
+{
+	"profile":{
+		"img":"p.jpg",
+		"name":"Farjana Pathan",
+		"rol":"16NN1A1238",
+		"college":"vignan's Nirula",
+		"place":"Guntur"
+	},
+	"career":{
+		"info":"To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective"
+},
+	"Education":[
+		{
+			"degree":"Btech",
+			"institution":"Vignan's Nirula",
+			"yop":"2020"
+		},
+	{
+		"degree":"Intermediate",
+		"institution":"sri chaitanya",
+		"yop":"2016"
+	},
+	{
+		"degree":"ssc",
+		"institution":"The central public school",
+		"yop":"2014"
+	}
+],
+	"languages":[
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Hindi"
+		},
+		{
+			"lang":"Telugu"
+		},
+		{
+			"lang":"Korean"
+		}
+	],
+	"skills":[
+		{
+			"title":"platforms",
+			"content":"windows,Linux"
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,python,java"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+	]
+	}
